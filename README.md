@@ -37,6 +37,6 @@ ShoppingCartSystem  #main program file
 README.md           #Documentation
 
 # Author
-. Developed by Eam Avinash Appikonda
-. Email : ramavinash447@gmail.com
-. gitHub: ramavinash-git
+. Developed by Yamavaram Roshan
+. Email :yamavaramroshanyadav@gmail.com
+. gitHub: roshan2550
